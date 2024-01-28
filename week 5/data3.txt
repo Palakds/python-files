@@ -1,0 +1,1593 @@
+
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+        <title>Companies wise Placement - Dr B R Ambedkar National Institute of Technology, Jalandhar</title>
+    <meta name="keywords" content="Companies wise Placement NIT Jalandhar, Companies wise Placement, Vision and Mission, Quality Policy, Reaching NITJ, Campus Facilities, List of Departments, Academic System, Fee Structure, Computer Center, Programmes of Study" />
+    <meta name="description" content="&lt;p&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;strong&gt;Placement Details&lt;/strong&gt;&amp;nbsp;(&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;co" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta charset="UTF-8" />
+<meta name="google-site-verification" content="1nyWNugasoS2NCN3uSJPi2rAUHXir9k5ByK21yJFqkM" />
+    <!--   <link href='../../../../fonts.googleapis.com/css_b201cc6a.css' rel='stylesheet' type='text/css' />
+
+  CSS Bootstrap & Custom -->
+    <link href="https://v1.nitj.ac.in/css/bootstrap.css" rel="stylesheet" media="screen" />
+    <link href="https://v1.nitj.ac.in/css/font-awesome.min.css" rel="stylesheet" media="screen" />
+    <link href="https://v1.nitj.ac.in/css/animate.css" rel="stylesheet" media="screen" />
+
+    <link href="https://v1.nitj.ac.in/css/style.css" rel="stylesheet" media="screen" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://v1.nitj.ac.in//images/ico/apple-touch-icon-144-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://v1.nitj.ac.in//images/ico/apple-touch-icon-114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://v1.nitj.ac.in//images/ico/apple-touch-icon-72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" href="https://v1.nitj.ac.in//images/ico/apple-touch-icon-57-precomposed.png" />
+    <link rel="shortcut icon" href="https://v1.nitj.ac.in//images/ico/favicon.ico" />
+
+    <!-- JavaScripts -->
+    <script src="https://v1.nitj.ac.in/js/jquery-1.10.2.min.js"></script>
+    <script src="https://v1.nitj.ac.in/js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="https://v1.nitj.ac.in/js/modernizr.js"></script>
+     <script src="https://v1.nitj.ac.in/js/custom.js"></script>
+    <script src="https://v1.nitj.ac.in/js/plugins.js"></script>
+    <!--[if lt IE 8]>
+	<div style=' clear: both; text-align:center; position: relative;'>
+            <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="../../../../storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" alt="" /></a>
+        </div>
+    <![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="https://v1.nitj.ac.in/css/plugin/jquery-ui.css">
+  <script src="https://v1.nitj.ac.in/js/jquery-1.10.2.min.js"></script>
+  <script src="https://v1.nitj.ac.in/js/plugin/jquery-ui.js"></script>
+  <link rel="stylesheet" href="https://v1.nitj.ac.in/css/style.css">
+
+
+  
+  <script>
+  $(function() {
+    $( "#accordion" ).accordion({
+      heightStyle: "content"
+    });
+  });
+
+  /*
+   * hoverIntent | Copyright 2011 Brian Cherne
+   * http://cherne.net/brian/resources/jquery.hoverIntent.html
+   * modified by the jQuery UI team
+   */
+  $.event.special.hoverintent = {
+    setup: function() {
+      $( this ).bind( "mouseover", jQuery.event.special.hoverintent.handler );
+    },
+    teardown: function() {
+      $( this ).unbind( "mouseover", jQuery.event.special.hoverintent.handler );
+    },
+    handler: function( event ) {
+      var currentX, currentY, timeout,
+        args = arguments,
+        target = $( event.target ),
+        previousX = event.pageX,
+        previousY = event.pageY;
+
+      function track( event ) {
+        currentX = event.pageX;
+        currentY = event.pageY;
+      };
+
+      function clear() {
+        target
+          .unbind( "mousemove", track )
+          .unbind( "mouseout", clear );
+        clearTimeout( timeout );
+      }
+
+      function handler() {
+        var prop,
+          orig = event;
+
+        if ( ( Math.abs( previousX - currentX ) +
+            Math.abs( previousY - currentY ) ) < 7 ) {
+          clear();
+
+          event = $.Event( "hoverintent" );
+          for ( prop in orig ) {
+            if ( !( prop in event ) ) {
+              event[ prop ] = orig[ prop ];
+            }
+          }
+          // Prevent accessing the original event since the new event
+          // is fired asynchronously and the old event is no longer
+          // usable (#6028)
+          delete event.originalEvent;
+
+          target.trigger( event );
+        } else {
+          previousX = currentX;
+          previousY = currentY;
+          timeout = setTimeout( handler, 100 );
+        }
+      }
+
+      timeout = setTimeout( handler, 100 );
+      target.bind({
+        mousemove: track,
+        mouseout: clear
+      });
+    }
+  };
+  </script>
+
+<style>
+.navbar-inverse {
+  background-color: #3A1F3B;
+  border-color: #222222;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #DEBBBB;
+  font-size: 13px;
+  font-family: verdana;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: 160px;
+  padding: 5px 0;
+  margin: 2px 0 0;
+  list-style: none;
+  font-size: 12px;
+  font-family: verdana;
+  background-color: white;
+  border: 1px solid #cccccc;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  background-clip: padding-box;
+}
+
+.dropdown-menu > li > a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.42857;
+  color: #49274A;
+  white-space: nowrap;
+}
+
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+  text-decoration: none;
+  color: white;
+  background-color: #3A1F3B;
+}
+
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+  color: white;
+  text-decoration: none;
+  outline: 0;
+  background-color: #3A1F3B;
+}
+
+
+
+
+
+.navbar-collapse.in {
+overflow: hidden;
+}
+
+.navbar-collapse {
+    max-height:200%;
+}
+
+.navbar-inverse .navbar-nav > .dropdown2 > a:hover .caret {
+  border-top-color: white;
+  border-bottom-color: white;
+}
+.navbar-inverse .navbar-nav > .dropdown2 > a .caret {
+  border-top-color: #999999;
+  border-bottom-color: #999999;
+}
+
+.dropdown2 {
+  position: relative;
+}
+
+
+.dropup .caret,
+.navbar-fixed-bottom .dropdown2 .caret {
+  border-top: 0 dotted;
+  border-bottom: 4px solid black;
+  content: "";
+}
+.dropup .dropdown-menu,
+.navbar-fixed-bottom .dropdown2 .dropdown-menu {
+  top: auto;
+  bottom: 100%;
+  margin-bottom: 1px;
+}
+
+
+.navbar-default .navbar-nav > .dropdown2 > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown2 > a:focus .caret {
+  border-top-color: #333333;
+  border-bottom-color: #333333;
+}
+
+
+.navbar-default .navbar-nav > .dropdown2 > a .caret {
+  border-top-color: #777777;
+  border-bottom-color: #777777;
+}
+
+@media (max-width: 767px) {
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+    color: #DEBBBB;
+    font-size:13px;
+
+  }
+
+}
+</style>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+</head>
+<header class="site-header">
+  <!--
+<style>
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+    }
+body {
+    top: 0px !important;
+    }
+.google_translate_element
+{
+    display: none !important;
+    }
+.goog-te-combo {display: none !important;}
+  </style>
+<div id="google_translate_element"><script id="s1" type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'hi,pa', autoDisplay: false}, 'google_translate_element');
+}
+
+</script><script id="s2" type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
+</script>
+-->
+
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'pa,hi,en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <div class="container" >
+      <div class="row" style="background-color: #3A1F3B">
+            <div class="col-md-4">
+              <script type="text/javascript">
+              var fxn = function() {
+var now = new Date(), // current date
+        months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']; // you get the idea
+        time = now.getHours() + ':' + now.getMinutes() + ':' + now.getSeconds(), // again, you get the idea
+
+        // a cleaner way than string concatenation
+        date = [now.getDate(),
+                months[now.getMonth()],
+                now.getFullYear()].join(' ');
+
+  document.getElementById('time').innerHTML = [date, time].join(' / ');
+}
+setInterval(fxn, 1000);
+              </script>
+              <div id="time"> </div>
+            </div> <!-- /.col-md-5 -->
+            <div class="col-md-8">
+                <ul class="footer-nav">
+                  <li>  <div id="google_translate_element" style="float:left;"></div></li>
+                  <li><a href=" https://v1.nitj.ac.in/cot">Training</a></li>
+                  <li><a href=" https://v1.nitj.ac.in/index.php/nitj_cinfo/index/64">Placements</a></li>
+                  <li><a href="https://nitjalandhar.almaconnect.com/">Alumni</a></li>
+                  <li><a href=" https://v1.nitj.ac.in/index.php/home/Contact_Us ">Contact</a></li>
+                  <li><a href=" https://v1.nitj.ac.in/index.php/nitj_cinfo/pages/21 ">Phone Book</a></li>
+                  <li><a href="https://www.google.com/a/nitj.ac.in/" target="_blank">Webmail</a></li>
+
+		                    <li><a href="https://v1.nitj.ac.in/index.php/login">Login</a></li>
+                  
+                </ul>
+            </div> <!-- /.col-md-7 -->
+        </div>
+        <div class="row">
+             <!-- /.header-left -->
+
+            <div class="col-md-8" style="padding-top:12px">
+                <div class="logo">
+                    <a href="#" title="NIT Jalandhar" rel="home">
+                        <img src="https://v1.nitj.ac.in/images/home/logo.png" alt="NIT Jalandhar"/>
+                    </a>
+                </div> <!-- /.logo -->
+
+                <div class="logo2">
+                    <a href="#" title="NIT Jalandhar" rel="home">
+                        <img src="https://v1.nitj.ac.in/images/logo2.png" alt="NIT Jalandhar"/><br /><br />
+                        <p style="width:100%; font-family:Times New Roman; letter-spacing:1px; font-size:22px; color:white; line-height:30px;">
+                          डा बी आर अम्बेडकर राष्ट्रीय प्रौद्योगिकी संस्थान, जालंधर<br />
+                          Dr B R Ambedkar National Institute of Technology, Jalandhar</p>
+                    </a>
+                </div> <!-- /.logo -->
+            </div> <!-- /.col-md-4 -->
+
+            <div class="col-md-4 header-right">
+
+
+              <div class = "search-form">
+
+              </div>
+              <!--
+                <div class="search-form">
+
+                    <form name="search_form" method="get" action="#" class="search_form" />
+
+                        <input type="text" name="s" placeholder="Search the site..." title="Search the site..." class="field_search" />
+                    </form>
+                </div>-->
+            </div> <!-- /.header-right -->
+        </div>
+    </div> <!-- /.container -->
+<!-- This one in here is responsive menu for tablet and mobiles -->
+
+<nav class="navbar navbar-inverse visible-sm visible-xs" style="margin-bottom:0px; background-color:#3A1F3B;">
+<div class="container">
+<div class="navbar-header">
+  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand" href="https://www.nitj.ac.in" style="color:#F7DC6F; font-family:Trebuchet MS; font-size:22px;"  data-toggle="tooltip" data-placement="bottom" title="Welcome to NITJ">NITJ</a>
+</div>
+<div class="collapse navbar-collapse" id="myNavbar">
+
+  <ul class="nav navbar-nav">
+    <li><a href="https://v1.nitj.ac.in/">Home</a></li>
+
+
+
+
+
+
+
+
+                  <li class="dropdown2">
+                    </li>
+            
+          <li class="dropdown2">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="https://v1.nitj.ac.in/index.php/nitj_cinfo/administration">Adminstration<span class="caret"></span></a>
+               <ul class="dropdown-menu">
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/administration">Adminstration</a></li>
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/boardofGoverners">Board of Governors</a></li>
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/memberofSenate">Members of Senate</a></li>
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/financeCommittee">Finance Committee</a></li>
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/buildingandWorksCommittee">Building & Works Committee</a></li>
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/Director">Director</a></li>
+                  <!-- <li><a href="index.php/nitj_cinfo/Council">Council</a></li>-->
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/registrar">Registrar</a></li>
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/dean">Deans</a></li>
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/assistant_registrar">Assistant Registrar</a></li>
+                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/pages/518">Organizational Structure</a></li>
+
+             </ul>
+            </li>
+
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/12>About NITJ<span class="caret"></span></a>
+
+            <ul class="dropdown-menu">
+              <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/12>About NITJ</a></li>
+
+</li>
+            
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/33>Quality Policy</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/34>Vision & Mission</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/35>Reaching NITJ</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/92>Five Year Strategic Plan</a></li>
+                                  </ul>
+                      </li>
+            
+
+          <li class="dropdown2">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="https://v1.nitj.ac.in/index.php/nitj_cinfo/index/15">Faculty<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                                    <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/1">Bio-Technology</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/2">Chemical Engineering</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/3">Chemistry</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/4">Civil  Engineering</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/5">Computer Science & Engg.</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/6">Electrical Engineering</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/7">Electronics and Comm.  Engg.</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/8">Humanities and Management</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/9">Industrial & Production Engg.</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/10">Information Technology</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/11">Instrumentation & Control Engg.</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/12">Mathematics</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/13">Mechanical Engineering</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/15">Physics</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/16">Textile Technology</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/17">Central Facilities</a></li>
+                                  </ul>
+          </li>
+                    <li class="dropdown2">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/13>Campus<span class="caret"></span></a>
+
+            <ul class="dropdown-menu">
+              <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/13>Campus</a></li>
+
+</li>
+            
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/20>Dispensary</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/21>Bus Transport</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/22>Guest House</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/23>Hostels</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/24>Post Office</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/25>Shopping</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/26>Banks</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/27>Canteens</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/28>Central Seminar Hall</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/29>Gymnasium Hall</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/30>Open Air Theatre</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/31>Students Activity Centre</a></li>
+                                  </ul>
+                      </li>
+                      <li class="dropdown2">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/14>Academics<span class="caret"></span></a>
+
+            <ul class="dropdown-menu">
+              <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/14>Academics</a></li>
+
+</li>
+            
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/9>Programmes of Study</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/10>Academic System</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/11>Academic Calendar</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/16>Accreditation Status</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/40>Academic Section Officials</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/41>Online Application for Transcripts and Other Certificates</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/42>Online Application for Verification of Degree (Only for Verification Agencies)</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/43>CGPA Criteria and Medium of Education</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/44>B.Tech, M.Tech, M.Sc., MBA, PhD Regulations</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/79>System of Evaluation and Grant of Division/Class</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/90>Standard Operating Procedure (SOP)</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/91>FAQs (Frequently Asked Questions)</a></li>
+                                  </ul>
+                      </li>
+                      <li class="dropdown2">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/15>Departments<span class="caret"></span></a>
+
+            <ul class="dropdown-menu">
+              <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/15>Departments</a></li>
+
+</li>
+            
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/46>Bio Technology</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/47>Chemical Engineering</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/50>Chemistry</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/51>Civil Engineering</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/52>Computer Science & Engg.</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/53>Electrical Engineering</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/54>Electronics & Comm. Engg.</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/55>Humanities & Management</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/56>Industrial & Production Engg.</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/57>Information Technology</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/58>Instrumentation & Control Engg.</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/59>Mathematics</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/60>Mechanical Engineering</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/62>Physics</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/63>Textile Technology</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/82>Centre for Continuing Education (CCE)</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/83>Centre for Energy and Environment</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/85>Centre for Artificial Intelligence</a></li>
+                                  </ul>
+                      </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/17>Central Facilities<span class="caret"></span></a>
+
+            <ul class="dropdown-menu">
+              <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/17>Central Facilities</a></li>
+
+</li>
+            
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/64>Training & Placement Centre</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/65>Computer Centre</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/66>Central Library</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/67>Central Workshop</a></li>
+                                          <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/347">Institute Instrumentation Centre (IIC)</a></li>
+
+                    <hr style="padding:0px; margin:7px">
+
+                    <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/541">Estate Office</a></li>
+                    <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/555">Cells and Clubs</a></li>
+
+
+                                </ul>
+                      </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/68>Research<span class="caret"></span></a>
+
+            <ul class="dropdown-menu">
+              <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/68>Research</a></li>
+
+</li>
+            
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/69>Technology Business Incubator</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/70>Sponsored Projects</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/71>Publications</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/72>Research Facilities</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/73>Major Research Areas</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/74>Intellectual Property Rights</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/76>Consultancy</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/78>Conferences</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/80>Innovation Club</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/81>Call for Proposals</a></li>
+                                  </ul>
+                      </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/86>MoU<span class="caret"></span></a>
+
+            <ul class="dropdown-menu">
+              <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/86>MoU</a></li>
+
+</li>
+            
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/87>International Institutes</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/88>Industry</a></li>
+                      
+                        <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/89>Indian Institutes</a></li>
+                                  </ul>
+                      </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+                      <li class="dropdown2">
+                    </li>
+            </ul>
+
+</div>
+</div>
+</nav>
+
+
+<nav class="navbar navbar-inverse visible-md visible-lg">
+            <div class="container">
+
+              <div class="navbar-header visible-lg">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="https://v1.nitj.ac.in/" style='color:#F7DC6F; font-family:Trebuchet MS; font-size:22px;  data-toggle="tooltip" data-placement="bottom" title="NITJ"'>NITJ</a>
+              </div>
+
+                <div class="collapse navbar-collapse" id="myNavbar">
+                        <ul class="nav navbar-nav">
+                            <li ><a href="https://v1.nitj.ac.in/">Home</a></li>
+
+
+                            
+                              <li class="dropdown">
+                                                            </li>
+                                
+
+                                  <li class="dropdown">
+                                    <a class="dropdown-toggle" href="https://v1.nitj.ac.in/index.php/nitj_cinfo/administration">Administration<span class="caret"></span></a>
+                                      <ul class="dropdown-menu">
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/boardofGoverners">Board of Governors</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/memberofSenate">Members of Senate</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/financeCommittee">Finance Committee</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/buildingandWorksCommittee">Building & Works Committee</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/Director">Director</a></li>
+                                    <!--  <li><a href="?php echo base_url(); ?>index.php/nitj_cinfo/Council">Council</a></li> -->
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/registrar">Registrar</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/dean">Deans</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/assistant_registrar">Assistant Registrar</a></li>
+                                      <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/pages/518">Organizational Structure</a></li>
+
+
+                                      </ul>
+                                   </li>
+
+                                   
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                              <a class="dropdown-toggle" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/12>About NITJ<span class="caret"></span></a>
+
+                                
+                                      <ul class="dropdown-menu">
+                                                                                    <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/33>Quality Policy</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/34>Vision & Mission</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/35>Reaching NITJ</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/92>Five Year Strategic Plan</a></li>
+
+                                                                                </ul>
+                                                                  </li>
+                                
+
+
+                                    <li class="dropdown">
+                                    <a class="dropdown-toggle" href="https://v1.nitj.ac.in/index.php/nitj_cinfo/index/15">Faculty<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/1">Bio-Technology</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/2">Chemical Engineering</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/3">Chemistry</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/4">Civil  Engineering</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/5">Computer Science & Engg.</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/6">Electrical Engineering</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/7">Electronics and Comm.  Engg.</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/8">Humanities and Management</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/9">Industrial & Production Engg.</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/10">Information Technology</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/11">Instrumentation & Control Engg.</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/12">Mathematics</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/13">Mechanical Engineering</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/15">Physics</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/16">Textile Technology</a></li>
+                                                                              <li><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/FacultyList/17">Central Facilities</a></li>
+                                                                            </ul>
+                                    </li>
+
+                                    
+                              <li class="dropdown">
+                                                              <a class="dropdown-toggle" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/13>Campus<span class="caret"></span></a>
+
+                                
+                                      <ul class="dropdown-menu">
+                                                                                    <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/20>Dispensary</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/21>Bus Transport</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/22>Guest House</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/23>Hostels</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/24>Post Office</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/25>Shopping</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/26>Banks</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/27>Canteens</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/28>Central Seminar Hall</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/29>Gymnasium Hall</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/30>Open Air Theatre</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/31>Students Activity Centre</a></li>
+
+                                                                                </ul>
+                                                                  </li>
+                                
+                              <li class="dropdown">
+                                                              <a class="dropdown-toggle" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/14>Academics<span class="caret"></span></a>
+
+                                
+                                      <ul class="dropdown-menu">
+                                                                                    <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/9>Programmes of Study</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/10>Academic System</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/11>Academic Calendar</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/16>Accreditation Status</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/40>Academic Section Officials</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/41>Online Application for Transcripts and Other Certificates</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/42>Online Application for Verification of Degree (Only for Verification Agencies)</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/43>CGPA Criteria and Medium of Education</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/44>B.Tech, M.Tech, M.Sc., MBA, PhD Regulations</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/79>System of Evaluation and Grant of Division/Class</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/90>Standard Operating Procedure (SOP)</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/91>FAQs (Frequently Asked Questions)</a></li>
+
+                                                                                </ul>
+                                                                  </li>
+                                
+                              <li class="dropdown">
+                                                              <a class="dropdown-toggle" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/15>Departments<span class="caret"></span></a>
+
+                                
+                                      <ul class="dropdown-menu">
+                                                                                    <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/46>Bio Technology</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/47>Chemical Engineering</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/50>Chemistry</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/51>Civil Engineering</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/52>Computer Science & Engg.</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/53>Electrical Engineering</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/54>Electronics & Comm. Engg.</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/55>Humanities & Management</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/56>Industrial & Production Engg.</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/57>Information Technology</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/58>Instrumentation & Control Engg.</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/59>Mathematics</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/60>Mechanical Engineering</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/62>Physics</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/63>Textile Technology</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/82>Centre for Continuing Education (CCE)</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/83>Centre for Energy and Environment</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/85>Centre for Artificial Intelligence</a></li>
+
+                                                                                </ul>
+                                                                  </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                              <a class="dropdown-toggle" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/17>Central Facilities<span class="caret"></span></a>
+
+                                
+                                      <ul class="dropdown-menu">
+                                                                                    <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/64>Training & Placement Centre</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/65>Computer Centre</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/66>Central Library</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/67>Central Workshop</a></li>
+
+                                                                                  <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/347">Institute Instrumentation Centre (IIC)</a></li>
+
+                                        <hr style="padding:0px; margin:7px">
+
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/541">Estate Office</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/555">Cells and Clubs</a></li>
+
+
+                                                                              </ul>
+                                                                  </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                              <a class="dropdown-toggle" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/68>Research<span class="caret"></span></a>
+
+                                
+                                      <ul class="dropdown-menu">
+                                                                                    <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/69>Technology Business Incubator</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/70>Sponsored Projects</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/71>Publications</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/72>Research Facilities</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/73>Major Research Areas</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/74>Intellectual Property Rights</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/76>Consultancy</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/78>Conferences</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/80>Innovation Club</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/81>Call for Proposals</a></li>
+
+                                                                                </ul>
+                                                                  </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                              <a class="dropdown-toggle" href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/86>MoU<span class="caret"></span></a>
+
+                                
+                                      <ul class="dropdown-menu">
+                                                                                    <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/87>International Institutes</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/88>Industry</a></li>
+
+                                                                                      <li><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/89>Indian Institutes</a></li>
+
+                                                                                </ul>
+                                                                  </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                              <li class="dropdown">
+                                                            </li>
+                                
+                        </ul> <!-- /.main-menu -->
+
+                </div> <!-- /.main-navigation -->
+            </div> <!-- /.container -->
+        </nav> <!-- /.nav-bar-main -->
+
+    </header> <!-- /.site-header -->
+
+
+    <script>
+
+    $('ul.nav li.dropdown').hover(function() {
+    $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeIn(500);
+    }, function() {
+    $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeOut(500);
+    });
+
+    </script>
+
+
+<!DOCTYPE html>
+  <div class="container">
+        <div class="row">
+            <!-- Here begin Main Content -->
+            
+              <div class="col-md-8">
+                <div class="row" >
+                    <div class="col-md-12">
+                        <div class="widget-item" style="min-height: 1123px;">
+                            <h2 class="welcome-text">Companies wise Placement</h2>
+
+                            <div class="menu-content download-links">
+                            <p> <p><span style="color:#000000"><strong>Placement Details</strong>&nbsp;(</span><strong><span style="color:#000000">B.Tech /M.Tech/MBA/M.Sc.)&nbsp; Batch-2022 passout:</span>&nbsp;</strong><img src="https://www.nitj.ac.in//images/New.gif" /></p>
+
+<ul>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Spanidea_Systems_27572.pdf"><span style="color:#B22222">Spanidea Systems</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_THINK_Gas_Distribution_Pvt_48686.pdf"><span style="color:#B22222">THINK Gas Distribution Pvt. Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Spyne_Ai__59636.pdf"><span style="color:#B22222">Spyne Ai</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Capgemini_Solutions_25003.pdf"><span style="color:#B22222">Capgemini Solutions</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Engineers_India_Limited_52243.pdf"><span style="color:#B22222">Engineers India Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Jacobs_72718.pdf"><span style="color:#B22222">Jacobs</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Vardhman_Textile_Limited_87731.pdf"><span style="color:#B22222">Vardhman Textile Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Aakash_Educational_Services_Limited__5753.pdf"><span style="color:#B22222">Aakash Educational Services Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Air_Liquide_Engineering__Construction_57561.pdf"><span style="color:#B22222">Air Liquide Engineering &amp; Construction</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Intel_Technology_India_Pvt_53405.pdf"><span style="color:#B22222">Intel Technology India Pvt. Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_JK_Tyre__Industries_Limited_4361.pdf"><span style="color:#B22222">JK Tyre &amp; Industries Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_PhysicsWallah_57135.pdf"><span style="color:#B22222">PhysicsWallah</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats__Cummins_India_54580.pdf"><span style="color:#B22222">Cummins India</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_The_Tata_Power_Company_Limited_7848.pdf"><span style="color:#B22222">The Tata Power Company Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Jaro_Education_92650.pdf"><span style="color:#B22222">Jaro Education</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_RSWM_Limited_77224.pdf"><span style="color:#B22222">RSWM Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Vardhman_Textile_Limited_81116.pdf"><span style="color:#B22222">Vardhman Textile Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Sagar_Manufacturers_Pvt_60692.pdf"><span style="color:#B22222">Sagar Manufacturers Pvt. Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Maruti_Suzuki_India_Limited_39088.pdf"><span style="color:#B22222">Maruti Suzuki India Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Qualcomm_4232.pdf"><span style="color:#B22222">Qualcomm</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Genpact_19810.pdf"><span style="color:#B22222">Genpact</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Aarti_Industries_Limited_6747.pdf"><span style="color:#B22222">Aarti Industries Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Bharat_Electronics_Limited_71777.pdf"><span style="color:#B22222">Bharat Electronics Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Infoedge_India_Limited_33906.pdf"><span style="color:#B22222">Infoedge India Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_BYJUS_15240.pdf"><span style="color:#B22222">BYJU&#39;S</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Samsung_RD_Institute,_Noida_1033.pdf"><span style="color:#B22222">Samsung R&amp;D Institute, Noida</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Cognizant_51337.pdf"><span style="color:#B22222">Cognizant</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Researchwire_Knowledge_Solutions_Pvt_Ltd_13342.pdf"><span style="color:#B22222">Researchwire Knowledge Solutions Pvt Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_IRON_Systems_India_Pvt_27049.pdf"><span style="color:#B22222">IRON Systems India Pvt. Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Welspun_13892.pdf"><span style="color:#B22222">Welspun</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Indiamart_Intermesh_Limited__47012.pdf"><span style="color:#B22222">Indiamart Intermesh Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_SRVA_Education_56415.pdf"><span style="color:#B22222">SRVA Education</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Bajaj_Auto_Limited_44763.pdf"><span style="color:#B22222">Bajaj Auto Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Infosys_87883.pdf"><span style="color:#B22222">Infosys</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Sprinklr_95774.pdf"><span style="color:#B22222">Sprinklr</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Vardhman_Textile_Limited_86251.pdf"><span style="color:#B22222">Vardhman Textile Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_O9_Solutions_7424.pdf"><span style="color:#B22222">O9 Solutions</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Samsung_Data_Systems_India_Pvt_49674.pdf"><span style="color:#B22222">Samsung Data Systems India Pvt. Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Cogoport_Pvt_18231.pdf"><span style="color:#B22222">Cogoport Pvt. Ltd</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Havells_India_Ltd_2587.pdf"><span style="color:#B22222">Havells India Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Reliance_Industries_Limited_94106.pdf"><span style="color:#B22222">Reliance Industries Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Cairn_Oil__Gas,_Vedanta_Ltd_6565.pdf"><span style="color:#B22222">Cairn Oil &amp; Gas, Vedanta Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/CGI_India_79527.pdf"><span style="color:#B22222">CGI India</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Infiiloom_75569.pdf"><span style="color:#B22222">Infiiloom</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Larsen__Toubro_Limited_86091.pdf"><span style="color:#B22222">Larsen &amp; Toubro Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Jubilant_Pharmova_Limited__72983.pdf"><span style="color:#B22222">Jubilant Pharmova Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Wiingy_10087.pdf"><span style="color:#B22222">Wiingy</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_ZF_Wabco_India_Ltd_37347.pdf"><span style="color:#B22222">ZF Wabco India Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_EWar_Games_(GHack_Technologies_Pvt_Ltd)_44020.pdf"><span style="color:#B22222">EWar Games (GHack Technologies Pvt Ltd)</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Testbook_Edu_49014.pdf"><span style="color:#B22222">Testbook Edu. Solutions Pvt. Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Amazon_10170.pdf"><span style="color:#B22222">Amazon</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Interra_Systems_62301.pdf"><span style="color:#B22222">Interra Systems</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Mediatak_26053.pdf"><span style="color:#B22222">Mediatak</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Samsung_Research_Bangalore_30366.pdf"><span style="color:#B22222">Samsung Research Bangalore</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Ficode_Software_Solutions_Private_Ltd_79064.pdf"><span style="color:#B22222">Ficode Software Solutions Private Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Centify_Technologies_63945.pdf"><span style="color:#B22222">Centify Technologies</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Cattleways_Solutions_Private_Limited(Gaugau)_91292.pdf"><span style="color:#B22222">Cattleways Solutions Private Limited (Gaugau)</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Saint_Gobain_India_Pvt_51363.pdf"><span style="color:#B22222">Saint Gobain India Pvt. Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_MG_Motors_Ltd_57644.pdf"><span style="color:#B22222">MG Motors Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Dealermatix_Technologies_Private_Limited_21857.pdf"><span style="color:#B22222">Dealermatix Technologies Private Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_CJ_Darcl_Logistics_Ltd_40527.pdf"><span style="color:#B22222">CJ Darcl Logistics Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats__NVIDIA_India_62317.pdf"><span style="color:#B22222">NVIDIA India</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Zensar_Technologies_3608.pdf"><span style="color:#B22222">Zensar Technologies</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_42Gears_Mobility_Systems_Private_Ltd_68479.pdf"><span style="color:#B22222">42Gears Mobility Systems Private Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Tredence_Analytics_80330.pdf"><span style="color:#B22222">Tredence Analytics</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Collegedunia_70126.pdf"><span style="color:#B22222">Collegedunia</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Hyundai_Motor_India_Limited_92193.pdf"><span style="color:#B22222">Hyundai Motor India Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Amazon_2022_38678.pdf"><span style="color:#B22222">Amazon Wow</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Texas_Instruments_31584.pdf"><span style="color:#B22222">Texas Instruments</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Accenture_5467.pdf"><span style="color:#B22222">Accenture</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Shapoorji_Pallonji_and_Co_52095.pdf"><span style="color:#B22222">Shapoorji Pallonji and Co. Pvt Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_ZS_Associates_85791.pdf"><span style="color:#B22222">ZS Associates</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Reliance_Jio_6036.pdf"><span style="color:#B22222">Reliance JIO</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Nagarro_Software_(P)_Ltd_92632.pdf"><span style="color:#B22222">Nagarro Software (P) Ltd</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Truminds_Software_System_53221.pdf"><span style="color:#B22222">Truminds Software System</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Cubastion_Consulting_Pvt_Ltd_50082.pdf"><span style="color:#B22222">Cubastion Consulting Pvt Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Capgemini_India_2_92719.pdf"><span style="color:#B22222">Capgemini India</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Robomq_12856.pdf"><span style="color:#B22222">Robomq</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Optum_(United_Health_Group_Company)_28363.pdf"><span style="color:#B22222">Optum (United Health Group Company)</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Comviva_15630.pdf"><span style="color:#B22222">Comviva</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_People_Strong_Technologies_68306.pdf"><span style="color:#B22222">People Strong Technologies</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_EXL_Service_90952.pdf"><span style="color:#B22222">EXL Service</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_ZS_Associates_99422.pdf"><span style="color:#B22222">ZS Associates</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Infosys_80512.pdf"><span style="color:#B22222">Infosys</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_HeroMotoCorp_Ltd_37652.pdf"><span style="color:#B22222">HeroMotoCorp Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Virtusa_48237.pdf"><span style="color:#B22222">Virtusa</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Samsung_Research_Institute,_Bangalore_20173.pdf"><span style="color:#B22222">Samsung Research Institute, Bangalore</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Incedo_3310.pdf"><span style="color:#B22222">Incedo</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Wipro_Limited_46193.pdf"><span style="color:#B22222">Wipro Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_IQuanti_87488.pdf"><span style="color:#B22222">IQuanti</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_EY_Gloabl_Delivery_Services_5959.pdf"><span style="color:#B22222">EY Global Delivery Services</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_LnT_Infotech_10876.pdf"><span style="color:#B22222">LnT Infotech</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_The_Mathcompany_(2022)_75256.pdf"><span style="color:#B22222">TheMathCompany</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Optum_Global_Solutions__65752.pdf"><span style="color:#B22222">Optum Global Solutions</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Flipkart_7261.pdf"><span style="color:#B22222">Flipkart</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Publicis_Sapient_47234.pdf"><span style="color:#B22222">Publicis Sapient</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_KPMG_India_56070.pdf"><span style="color:#B22222">KPMG India</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Accenture_48000.pdf"><span style="color:#B22222">Accenture</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Oracle_Financial_Services_Software_ltd_24728.pdf"><span style="color:#B22222">Oracle Financial Services Software ltd. (OFSS)</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Bosch_Limited_56853.pdf"><span style="color:#B22222">Bosch Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Mylofamily_86609.pdf"><span style="color:#B22222">Mylofamily</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Innovaccer_31696.pdf"><span style="color:#B22222">Innovaccer</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Paytm_27230.pdf"><span style="color:#B22222">Paytm</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Infoedge_93292.pdf"><span style="color:#B22222">Infoedge</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_NatwestGroup_89907.pdf"><span style="color:#B22222">Natwestgroup</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Cvent_India_Pvt_76184_68362.pdf"><span style="color:#B22222">Cvent India Pvt. Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Standard_Chartered_GBS_Pvt_Ltd_1stand_2nd_List_10450.pdf"><span style="color:#B22222">Standard Chartered GBS Pvt Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Accolite_Digital_1st_and_2nd_List_45668.pdf"><span style="color:#B22222">Accolite Digital</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Sabre_Corporation_72422.pdf"><span style="color:#B22222">Sabre Corporation</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Increff_14885.pdf"><span style="color:#B22222">Increff</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Infocusp_Innovations_Pvt_44048.pdf"><span style="color:#B22222">Infocusp Innovations Pvt. Ltd.</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Deloitte_Consulting_India_Private_Limited_82793.pdf"><span style="color:#B22222">Deloitte Consulting India Private Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Axis_Bank_Limited_40641.pdf"><span style="color:#B22222">Axis Bank Limited</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Oracle_39218.pdf"><span style="color:#B22222">Oracle</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_Microsoft_43509.pdf"><span style="color:#B22222">Microsoft</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Congrats_American_Express_18717.pdf"><span style="color:#B22222">American Express</span></a></li>
+	<li><a href="https://www.nitj.ac.in/nitj_files/links/Lowe%E2%80%99s_India_66304.pdf"><span style="color:#B22222">Lowe&rsquo;s India</span></a></li>
+</ul>
+</p>
+                            </div>
+
+                        </div> <!-- /.widget-item -->
+                    </div> <!-- /.col-md-12 -->
+                </div> <!-- /.row -->
+              </div>
+
+            <!-- Here begin Sidebar -->
+
+<div class="col-md-4">
+
+  <div class="widget-main">
+
+      <div id="accordion">
+              <h3><strong>About NITJ</strong></h3>
+      <div style="line-height:25px; padding-top:5px; padding-bottom:5px">
+        <p>
+          <li><b><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/12 style="color:#49274A;">About NITJ</a></b></li>
+                        <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/33>Quality Policy</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/34>Vision & Mission</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/35>Reaching NITJ</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/92>Five Year Strategic Plan</a></li>
+                      </p>
+      </div>
+            <h3><strong>Campus</strong></h3>
+      <div style="line-height:25px; padding-top:5px; padding-bottom:5px">
+        <p>
+          <li><b><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/13 style="color:#49274A;">Campus</a></b></li>
+                        <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/20>Dispensary</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/21>Bus Transport</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/22>Guest House</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/23>Hostels</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/24>Post Office</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/25>Shopping</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/26>Banks</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/27>Canteens</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/28>Central Seminar Hall</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/29>Gymnasium Hall</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/30>Open Air Theatre</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/31>Students Activity Centre</a></li>
+                      </p>
+      </div>
+            <h3><strong>Academics</strong></h3>
+      <div style="line-height:25px; padding-top:5px; padding-bottom:5px">
+        <p>
+          <li><b><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/14 style="color:#49274A;">Academics</a></b></li>
+                        <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/9>Programmes of Study</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/10>Academic System</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/11>Academic Calendar</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/16>Accreditation Status</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/40>Academic Section Officials</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/41>Online Application for Transcripts and Other Certificates</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/42>Online Application for Verification of Degree (Only for Verification Agencies)</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/43>CGPA Criteria and Medium of Education</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/44>B.Tech, M.Tech, M.Sc., MBA, PhD Regulations</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/79>System of Evaluation and Grant of Division/Class</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/90>Standard Operating Procedure (SOP)</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/91>FAQs (Frequently Asked Questions)</a></li>
+                      </p>
+      </div>
+            <h3><strong>Departments</strong></h3>
+      <div style="line-height:25px; padding-top:5px; padding-bottom:5px">
+        <p>
+          <li><b><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/15 style="color:#49274A;">Departments</a></b></li>
+                        <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/46>Bio Technology</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/47>Chemical Engineering</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/50>Chemistry</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/51>Civil Engineering</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/52>Computer Science & Engg.</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/53>Electrical Engineering</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/54>Electronics & Comm. Engg.</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/55>Humanities & Management</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/56>Industrial & Production Engg.</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/57>Information Technology</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/58>Instrumentation & Control Engg.</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/59>Mathematics</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/60>Mechanical Engineering</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/62>Physics</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/63>Textile Technology</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/82>Centre for Continuing Education (CCE)</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/83>Centre for Energy and Environment</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/85>Centre for Artificial Intelligence</a></li>
+                      </p>
+      </div>
+            <h3><strong>Central Facilities</strong></h3>
+      <div style="line-height:25px; padding-top:5px; padding-bottom:5px">
+        <p>
+          <li><b><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/17 style="color:#49274A;">Central Facilities</a></b></li>
+                        <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/64>Training & Placement Centre</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/65>Computer Centre</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/66>Central Library</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/67>Central Workshop</a></li>
+                      </p>
+      </div>
+            <h3><strong>Research</strong></h3>
+      <div style="line-height:25px; padding-top:5px; padding-bottom:5px">
+        <p>
+          <li><b><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/68 style="color:#49274A;">Research</a></b></li>
+                        <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/69>Technology Business Incubator</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/70>Sponsored Projects</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/71>Publications</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/72>Research Facilities</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/73>Major Research Areas</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/74>Intellectual Property Rights</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/76>Consultancy</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/78>Conferences</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/80>Innovation Club</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/81>Call for Proposals</a></li>
+                      </p>
+      </div>
+            <h3><strong>MoU</strong></h3>
+      <div style="line-height:25px; padding-top:5px; padding-bottom:5px">
+        <p>
+          <li><b><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/86 style="color:#49274A;">MoU</a></b></li>
+                        <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/87>International Institutes</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/88>Industry</a></li>
+                            <li type="square"><a href=https://v1.nitj.ac.in/index.php/nitj_cinfo/index/89>Indian Institutes</a></li>
+                      </p>
+      </div>
+      
+    </div>
+
+    </div> <!-- /.widget-main -->
+</div>
+
+
+<div class="col-md-4" >
+<div class="widget-main">
+    <div class="widget-main-title">
+          <h4 class="widget-title">Downloads  <img style="float:right; margin-right:20px;" src="https://v1.nitj.ac.in//images/Download-Icon.png" /></h4>
+      </div>
+      <div class="widget-inner">
+          <div class="prof-list-item clearfix">
+              <div class="prof-details">
+
+
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/1">NITJ Newsletter (December 2022)</a></li>
+                                <li><a href="https://www.nitj.ac.in/nitj_files/links/Dr_21443.pdf">NIRF - 2023, NITJ</a></li>
+                                <li><a href="https://www.nitj.ac.in/NITJ-Compendium/">NITJ Compendium</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/297">List of Holidays - 2024</a></li>
+                                <li><a href="https://v1.nitj.ac.in/nitj_files/downloads/ARI-U-0374_21_21081194543.pdf">ARIIA (2020-21)</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/index/11">Academic Calendar (2022 - 2023)</a></li>
+                                <li><a href="https://www.nitj.ac.in/nitj_files/links/nitj_calendar_2021.pdf">NITJ Calendar - 2021</a></li>
+                                <li><a href="https://www.nitj.ac.in/nitj_files/links/salientfeatures_Highereducation_final-merged_73472.pdf">National Education Policy 2020</a></li>
+                                <li><a href="https://v1.nitj.ac.in/nitj_files/downloads/Prospectus_June_2019_19073168442.pdf">Institute Prospectus (2019-2020)</a></li>
+                                <li><a href="https://www.nitj.ac.in/nitj_files/links/TA_DA_Guidelines_80802.pdf">TA/DA Rules</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/11">Annual Reports</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/759">List of Empanelled Hospitals</a></li>
+                                <li><a href="https://www.ugc.ac.in/page/UGC-ACT-1956.aspx">UGC Act - Rules & Regulations</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/704">Proformas (Bilingual)</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/22">Curriculum</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/2">Minutes of Meeting</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/5">NIT Act and Statutes</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/6">Ministry of Education Notifications</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/7">Rules/Policies and Circulars</a></li>
+                                <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/14">Pension</a></li>
+                                <li><a href="https://v1.nitj.ac.in/nitj_files/downloads/Annual_Property_Return_16113012632.pdf">Annual Property Return</a></li>
+                
+
+              </div> <!-- /.prof-details -->
+          </div> <!-- /.prof-list-item -->
+      </div> <!-- /.widget-inner -->
+  </div> <!-- /.widget-main -->
+</div>
+
+
+
+  <div class="col-md-4">
+    <div class="widget-main" style="min-height:445px;">
+        <div class="widget-main-title">
+              <h4 class="widget-title">Other Links  <img style="float:right; margin-right:20px;" src="https://v1.nitj.ac.in//images/Other-Links-Icon.png" /></h4>
+          </div>
+          <div class="widget-inner">
+              <div class="prof-list-item clearfix">
+                  <div class="prof-details">
+
+                                        <li><a href="https://www.nitj.ac.in/ITEP/">National Council for Teacher Education-ITEP</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/nisp">National Innovation and Startup Policy (NISP)</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/751">Students Grievance Cell</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/555">Cells and Clubs, NITJ</a></li>
+                                        <li><a href="http://msnitj.in/">Managerial Society, NITJ</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/srusti">Science & Technology Innovation Hub</a></li>
+                                        <li><a href="https://zeal.pythonanywhere.com/">Zeal Society, NITJ</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/261">"We Can" Club NITJ</a></li>
+                                        <li><a href="https://nitj.irins.org/">IRINS Instance of NITJ (VIDWAN)</a></li>
+                                        <li><a href="https://www.nitj.ac.in/ecell/">E-Cell NITJ</a></li>
+                                        <li><a href="https://www.nitj.ac.in/Innovation_Club/">Innovation Club</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/nss">NSS - NIT Jalandhar</a></li>
+                                        <li><a href="http://www.nitcouncil.org.in/">Council of NITs</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/rajbhasha">राजभाषा (हिन्दी प्रकोष्ठ)</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/15">SC ST Cell</a></li>
+                                        <li><a href="https://www.nitj.ac.in/women_cell/">Women Cell</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/16">Right to Information Cell</a></li>
+                                        <li><a href="https://www.nitj.ac.in/index.php/nitj_cinfo/pages/18">Public Grievances</a></li>
+                                        <li><a href="http://www.vcr.nic.in/">Virtual Classroom (NKN)</a></li>
+                                        <li><a href="http://vlab.co.in/">Virtual Labs</a></li>
+                                        <li><a href="http://goidirectory.nic.in/index.php">GOI Web Directory</a></li>
+                    
+                      <li style="list-style-type:none;"><a href="https://punjabtourism.punjab.gov.in/" target="_blank">
+                        <img src="https://v1.nitj.ac.in//images/Golden-Temple.jpg">
+                        <img src="https://v1.nitj.ac.in//images/Jalianwala-Bagh.jpg">
+                    </a></li>
+                    </div> <!-- /.prof-details -->
+              </div> <!-- /.prof-list-item -->
+          </div> <!-- /.widget-inner -->
+      </div> <!-- /.widget-main -->
+    </div>
+
+
+</div>
+</div>
+
+<!-- begin The Footer --> <!-- /.row -->
+<!-- here the footer was placed :-D***********************************************-->
+<footer class="site-footer">
+    <div class="container">
+    
+<div class="bottom-footer">
+    <div class="row">
+        <div class="col-md-4">
+            <p class="small-text">&copy; Copyright 2016-2024, All Rights Reserved NIT Jalandhar</p>
+        </div> <!-- /.col-md-5 -->
+        <div class="col-md-8">
+            <ul class="footer-nav">
+              <li class="active"><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/OtherNIT">Other NITs</a></li>
+              <li class="active"><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/Credits">Credits</a></li>
+              <li class="active"><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/index/18">TEQIP</a></li>
+              <li class="active"><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/pages/19">Terms of Use</a></li>
+        <!--     <li class="active"><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/Acknowledgment">Acknowledgment</a></li> -->
+              <li class="active"><a href="https://v1.nitj.ac.in/index.php/nitj_cinfo/pages/20">Anti Ragging</a></li>
+              <li class="active"><a href="https://www.facebook.com/NITJofficial" target="_blank"><img src="https://v1.nitj.ac.in/images/facebook.png"></a></li>
+              <li class="active"><a href="https://www.twitter.com/NITJofficial" target="_blank"><img src="https://v1.nitj.ac.in/images/twitter.png"></a></li>
+              <li class="active"><a href="https://www.youtube.com/c/NITJofficial" target="_blank"><img src="https://v1.nitj.ac.in/images/youtube.png"></a></li>
+              <li class="active"><a href="https://www.linkedin.com/school/dr-b-r-ambedkar-national-institute-of-technology-jalandhar-official" target="_blank"><img src="https://v1.nitj.ac.in/images/linkedin.png"></a></li>
+              <li class="active"><a href="https://www.instagram.com/nitjofficial" target="_blank"><img src="https://v1.nitj.ac.in/images/instagram_logo.png"></a></li>
+
+            </ul>
+        </div> <!-- /.col-md-7 -->
+    </div> <!-- /.row -->
+</div> <!-- /.bottom-footer -->
+
+</div> <!-- /.container -->
+</footer> <!-- /.site-footer -->
+
+
+<script src="https://v1.nitj.ac.in//js/bootstrap.min.js"></script>
+<script src="https://v1.nitj.ac.in//js/plugins.js"></script>
+<script src="https://v1.nitj.ac.in//js/custom.js"></script>
+
+</body>
+</html>
